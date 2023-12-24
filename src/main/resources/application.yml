@@ -15,7 +15,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ashishsingh700/config-repo
+          uri: https://github.com/ashishsingh700/config-repo.git
           default-label: master
           timeout: 5
           clone-on-start: true
